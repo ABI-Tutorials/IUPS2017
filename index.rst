@@ -1,10 +1,10 @@
-.. _vph2014-index:
+.. _ISB_2017-index:
 
-================================
-VPH 2014 - ABI Software Tutorial
-================================
+=======================================================
+ISB 2017 Tutorial - Multiscale modeling in biomechanics
+=======================================================
 
-This documentation has been prepared for the session, *"VPH tools from the Auckland Bioengineering Institute"*, presented at the `VPH 2014 <http://www.ntnu.edu/vph2014/>`_ meeting.
+This documentation has been prepared for the tutorial, *"Multiscale modeling in biomechanics"*, presented at the `ISB 2017 <http://www.biomech2017.com/>`_ meeting.
 
 This tutorial will demonstrate some of the tools, techniques and best practices developed at the `Auckland Bioenginerring Institute <http://www.abi.auckland.ac.nz>`_ that aid scientists in the development and application of computational models and simulation experiments in their work toward the creation of a virtual physiological human. The :ref:`Auckland Physiome Repository <abi-pmr2-index>` provides a framework for the storage, curation and exchange of data. By using standards suitable to their data, scientists maximise their ability to reuse existing knowledge and enable others to make use of their achievements in novel work. Annotations ensure scientists are able to find existing data and are also able to correctly interpret and apply their own data. These tutorials are designed to help demonstrate and promote practices which will aid attendees in their own work. Attendees are encouraged to raise issues specifically related to their needs with the tutors.
 
@@ -35,14 +35,12 @@ Contents:
    tutorialOverview
    PMR2/index
    OpenCOR/index
-   MAP/index
    glossary
    todoList
 
 .. toctree::
    :hidden:
 
-   MAP/README.rst
    tutorialMap
 
 
