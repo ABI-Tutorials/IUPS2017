@@ -1,6 +1,3 @@
 [submodule "PMR2"]
 	path = PMR2
 	url = https://github.com/PMR2/PMR2userdocs.git
-[submodule "OpenCOR"]
-	path = OpenCOR
-	url = https://github.com/ABI-Tutorials/opencor-docs.git
