@@ -12,6 +12,11 @@ Install OpenCOR
 
 This tutorial requires a reasonably new version of OpenCOR to be used. Specifically, we use here *OpenCOR Snapshot 2017-06-21*. That or any new version of OpenCOR should work fine. OpenCOR can be downloaded from: http://opencor.ws/downloads/index.html. The tutors also have copies of the installers available.
 
+Getting to know OpenCOR
+-----------------------
+
+OpenCOR is a very flexible model management, editing, and simulation tool with many features. The full :ref:`cellml_opencor_pmr_tutorial_index` tutorial covers a lot of material that is relevant to this tutorial, but before continuing here it is useful to quickly run through the section :ref:`cellml_opencor_pmr_tutorial__first_model` to get a bit of familiarity with the tool.
+
 .. _preparation-pmrAccount:
 
 Connecting OpenCOR to your PMR account

@@ -16,13 +16,14 @@ In this tutorial we will demonstrate the use of the Physiome Project framework f
 
 The following will guide participants through a series of tasks that will highlight some of the capabilities of the tools and technologies mentioned above, as well as to demonstrate some of the benefits of following standards-based workflows for model development and simulation. We believe will help ensure reproducible and reusable science.
 
-Contents:
+Tutorial:
 
 .. toctree::
    :maxdepth: 2
    :titlesonly:
 
    preparation
+   sharing
    glossary
    todoList
    
