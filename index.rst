@@ -32,6 +32,8 @@ In addition to the actual tutorial material above, we provide here some further 
    :maxdepth: 1
    :titlesonly:
    
-   PMR2/index
    cellml-opencor-pmr-tutorial/source/index
+   PMR2/index
+   
+A final document that might be useful for those wanting further background reading on the use of bond graphs to guide the creation of CellML models is given here: :download:`BG-Composite-2017-07-17.pdf <resources/BG-Composite-2017-07-17.pdf>`.
    
