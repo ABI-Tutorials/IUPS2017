@@ -19,7 +19,7 @@ The following will guide participants through a series of tasks that will highli
 Contents:
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :titlesonly:
 
    preparation

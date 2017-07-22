@@ -14,21 +14,11 @@ This tutorial requires a reasonably new version of OpenCOR to be used. Specifica
 
 .. _preparation-pmrAccount:
 
-Create a PMR Account
---------------------
+Connecting OpenCOR to your PMR account
+--------------------------------------
 
-In this tutorial we use the teaching instance of the Physiome Model Repository (PMR). The teaching instance allows us to try out features and workflows without the worry of the permanence of the primary instance of the repository. Before we begin you first need to create an account to use in the teaching instance of PMR.
-
-First, navigate to the teaching instance at `<http://teaching.physiomeproject.org/>`_. In order to make changes to models in the repository, you must
-first register for an account.  Your account will have the appropriate access privileges so that you can push any changes you have made to a model back into the repository.
-
-To register an account, access the *Log in* link and access the *registration form* from there. Enter your desired username and password. After completing the email validation step, you can now log in to the repository.
-
-.. note::
-
-   This username and password are also the credentials you use to
-   interact with the repository via OpenCOR.
-
-Once logged in to the repository, you will notice that there is a new link in the navigation bar, My Workspaces. This is where all the workspaces you create later on will be listed. The Log in link is also replaced by your username and a Log out link.
+Once you have OpenCOR installed, we want to connect it to PMR to enable you to archive and share your work. If you follow the instructions over at :ref:`cellml_opencor_pmr_tutorial__pmr_with_opencor` to create an account on the teaching instance of the Physiome Model Repository (PMR) and then set up OpenCOR to use that account.
 
 .. include:: PMR2/teaching-instance-warning.rst
+
+
