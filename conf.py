@@ -25,7 +25,7 @@ import sys, os
 
 # Add any Sphinx extension module names here, as strings. They can be extensions
 # coming with Sphinx (named 'sphinx.ext.*') or your custom ones.
-extensions = ['sphinx.ext.mathjax', 'sphinx.ext.intersphinx', 'sphinx.ext.todo']
+extensions = ['sphinx.ext.mathjax', 'sphinx.ext.intersphinx', 'sphinx.ext.todo', 'sphinxcontrib.bibtex']
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -180,6 +180,8 @@ html_use_smartypants = False
 # Output file base name for HTML help builder.
 htmlhelp_basename = 'ISB2017ABI'
 
+# Enables figure numbering
+numfig = True
 
 # -- Options for LaTeX output --------------------------------------------------
 

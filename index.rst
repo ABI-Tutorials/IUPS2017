@@ -23,20 +23,15 @@ Contents:
    :titlesonly:
 
    preparation
-   PMR2/index
    glossary
    todoList
+   
+In addition to the actual tutorial material above, we provide here some further material that is relevant to this tutorial. This includes the PMR user documentation and a tutorial introducing CellML, OpenCOR, and PMR.
 
 .. toctree::
-   :hidden:
-
-   tutorialMap
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   :maxdepth: 1
+   :titlesonly:
+   
+   PMR2/index
+   cellml-opencor-pmr-tutorial/source/index
+   
