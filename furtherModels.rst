@@ -31,3 +31,21 @@ The first example to explore is the basic Hill model with added parallel damping
 Running the prepared simulation experiments for the Hill model with either parallel and series damping will hopefully result in clearly observable damping behaviour. As described in :ref:`tutorialSharing`, explore these models and try out the functionality of OpenCOR. As you work, be sure to keep things synchronised with PMR, **making sure you use descriptive messages when synchronising changes so that you can keep track of your work.**
 
 If you would like to test how well you document your changes, try sharing your workspace with your neighbour and seeing if they are able to work out what you changed just from your workspace history.
+
+A pendulum encoded in CellML
+----------------------------
+
+In addition to models like the Hill model, it is also possible to follow the same methods to develop models capturing kinematics. We provide another workspace, http://teaching.physiomeproject.org/workspace/2b5, in which a model of a pendulum is provided. This model is similar to that given in Section 3.4 of the full bond graph tutorial provided on the :ref:`main index <ISB_2017-index>` page and reproduced in :numref:`isb2017_bg_pendulum_model` for convenience.
+
+.. Figure:: resources/pendulum-model.png
+   :name: isb2017_bg_pendulum_model
+   :alt: Schematic of the spring-mass pendulum.
+   :align: center
+   :width: 40%
+   
+   Schematic illustration of a spring-mass pendulum and the associated bond-graph based derivation of the model. The model is provided in the CellML model :file:`BG tutorial model solid mechanics 3.cellml` and a prepared simulation experiment in :file:`BG tutorial model solid mechanics 3.sedml`.
+   
+As above, create your own fork of this workspace and local copy of the workspace to explore.
+
+
+
