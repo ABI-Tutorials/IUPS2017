@@ -62,3 +62,5 @@ To further demonstrate the sharing capabilities, go back to the :file:`Hill_Basi
 #. Now synchronise your workspace with PMR.
 #. Discover your neighbour's PMR user name.
 #. Share your workspace with your neighbour using the directions given here: :ref:`sharingWorkspaces`.
+#. When your neighbour shares a workspace with you, you'll need to fork the workspace under your own account in order to access it using OpenCOR (as described above). Then you should be able to make a local copy of the workspace using OpenCOR and hopefully reproduce exactly the same results as your neighbour.
+#. If desired, you can also submit your workspace for publication as described under :ref:`sharingWorkspaces`, the tutors can then take a look at your work and also hopefully reproduce the results.
