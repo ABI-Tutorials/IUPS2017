@@ -4,7 +4,7 @@
 Physiome journal workshop @ IUPS 2017
 =====================================
 
-**Tutors:** `David Nickerson <http://www.abi.auckland.ac.nz/people/d-nickerson>`_, `Alan Garny <http://www.opencor.ws>`_, `Soroush Safaei <http://www.abi.auckland.ac.nz/people/ssaf006>`_, and `Peter Hunter <http://www.abi.auckland.ac.nz/people/p-hunter>`_, `Auckland Bioengineering Institute <http://www.abi.auckland.ac.nz/>`_, University of Auckland, New Zealand.
+**Tutors:** `David Nickerson <http://www.abi.auckland.ac.nz/people/d-nickerson>`_, `Alan Garny <http://www.opencor.ws>`_, `Soroush Safaei <http://www.abi.auckland.ac.nz/people/ssaf006>`_, `Dewan Sarwar <http://www.abi.auckland.ac.nz/people/dsar941>`_, and `Peter Hunter <http://www.abi.auckland.ac.nz/people/p-hunter>`_, `Auckland Bioengineering Institute <http://www.abi.auckland.ac.nz/>`_, University of Auckland, New Zealand.
 
 A long term goal for research in computational physiology is to be able to interpret measurements of physiological function from multiple physiological scales, including whole body measurements as well as molecular level function through, for example, blood biomarkers or tissue biopsies. This requires multi-scale modelling to relate the molecular function of cells and tissues to the integrated performance of the body’s organ systems. In many cases it also requires the models to be as specific to the individual as possible.
 
@@ -12,7 +12,7 @@ The Physiome Project is an international effort to establish an open science fra
 
 :ref:`Physiome Model Repository <abi-pmr2-index>` provides a framework for the storage, curation, discovery, and exchange of data. By using standards suitable to their data, scientists maximise their ability to reuse existing knowledge and enable others to make use of their achievements in novel work. Annotations ensure scientists are able to find existing data and are also able to correctly interpret and apply their own data. In this workshop we will demonstrate the use of the Physiome Project modelling framework and show participants how to use the freely available tool OpenCOR and the associated model database. 
 
-IUPS is launching a new open access journal called Physiome that will publish papers based on these reproducibility standards. In this workshop we will also explain the types of submission that will be accepted by Physiome and the facilities that will be available to readers for viewing and exploring the models. 
+IUPS is launching a new open access journal called *Physiome* (`journal.physiomeproject.org <https://journal.physiomeproject.org/>`_) that will publish papers based on these reproducibility standards. In this workshop we will also explain the types of submission that will be accepted by *Physiome* and the facilities that will be available to readers for viewing and exploring the models. 
 
 The following will guide participants through a series of tasks that will highlight some of the capabilities of the tools and technologies mentioned above, as well as to demonstrate some of the benefits of following standards-based workflows for model development and simulation. We believe will help ensure reproducible and reusable science.
 
