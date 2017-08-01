@@ -5,20 +5,12 @@ Further models to explore
 
 In this part of the tutorial we look at exploring and sharing several more models that may be of interest. You need to make sure you have completed the :ref:`preparation <tutorialPreparation>` and :ref:`sharing <tutorialSharing>` sections before embarking on this section.
 
-The Hill model with damping
----------------------------
+The Hill model with serial damping
+----------------------------------
 
-In a similar manner as the basic 3-element Hill model, we are about to build Hill models which contain damping. We have provided another :term:`workspace` containing two new Hill models at: http://teaching.physiomeproject.org/workspace/2b6. As with the :ref:`previous section <tutorialSharing>`, you should :term:`fork` this workspace and make a local copy of the workspace using OpenCOR.
+In a similar manner as the Hill model with parallel damping, we are about to work with a Hill model which contains serial damping. We have provided another :term:`workspace` containing a new Hill model at: http://teaching.physiomeproject.org/workspace/2b6. As with the :ref:`previous section <tutorialSharing>`, you should :term:`fork` this workspace and make a local copy of the workspace using OpenCOR.
 
-The first example to explore is the basic Hill model with added parallel damping, as shown in :numref:`isb2017_hill_pdash_model`.
-
-.. Figure:: resources/Dig_pDash.png
-   :name: isb2017_hill_pdash_model
-   :alt: Schematic of the basic Hill model with parallel damping.
-   :align: center
-   :width: 40%
-   
-   Schematic illustration of the Hill model with additional parallel damping element we are using in this part of the tutorial. The model is described in the CellML document :file:`Hill_Basic_pDash.cellml` and a prepared simulation experiment in :file:`Hill_Basic_pDash.sedml`.
+The basic Hill model with added serial damping is shown in :numref:`isb2017_hill_sdash_model`.
 
 .. Figure:: resources/Dig_sDash.png
    :name: isb2017_hill_sdash_model
@@ -35,7 +27,7 @@ If you would like to test how well you document your changes, try sharing your w
 A pendulum encoded in CellML
 ----------------------------
 
-In addition to models like the Hill model, it is also possible to follow the same methods to develop models capturing kinematics. We provide another workspace, http://teaching.physiomeproject.org/workspace/2b5, in which a model of a pendulum is provided. This model is similar to that given in Section 3.4 of the full bond graph tutorial provided on the :ref:`main index <ISB_2017-index>` page and reproduced in :numref:`isb2017_bg_pendulum_model` for convenience.
+In addition to models like the Hill model, it is also possible to follow the same methods to develop models capturing kinematics. We provide another workspace, http://teaching.physiomeproject.org/workspace/2b5, in which a model of a pendulum is provided. This model is similar to that given in Section 3.4 of the full bond graph tutorial provided on the :ref:`main index <IUPS_2017-index>` page and reproduced in :numref:`isb2017_bg_pendulum_model` for convenience.
 
 .. Figure:: resources/pendulum-model.png
    :name: isb2017_bg_pendulum_model

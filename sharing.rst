@@ -24,7 +24,7 @@ For this tutorial we are working with various configurations of the fundamental 
    :align: center
    :width: 40%
    
-   Schematic illustration of the Hill model with parallel damping we are using in this part of the tutorial. The model is located in the :file:`
+   Schematic illustration of the Hill model with parallel damping we are using in this part of the tutorial. The model is located in the :file:`Hill_Basic_pDash.cellml`.
 
 .. Figure:: resources/BG_pDash.png
    :name: iups2017_sharing_hill_pdash_bg
