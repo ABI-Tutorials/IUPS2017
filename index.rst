@@ -22,6 +22,7 @@ Tutorial:
    :maxdepth: 2
    :titlesonly:
 
+   physiomeJournal
    preparation
    sharing
    furtherModels
