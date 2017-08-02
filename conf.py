@@ -199,7 +199,7 @@ latex_elements = {
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'ISB2017ABITutorial.tex', u'ISB 2017 ABI Software Tutorial',
+  ('index', 'IUPS2017PhysiomeTutorial.tex', u'IUPS 2017 Physiome Journal Tutorial',
    u'Auckland Bioengineering Institute', 'manual'),
 ]
 
@@ -229,7 +229,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'abibook', u'ISB 2017 ABI Software Tutorial',
+    ('index', 'abibook', u'IUPS 2017 ABI Software Tutorial',
      [u'Auckland Bioengineering Institute'], 1)
 ]
 
@@ -243,7 +243,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'ISB2017ABITutorial', u'ISB 2017 ABI Software Tutorial',
+  ('index', 'IUPS2017ABITutorial', u'IUPS 2017 ABI Software Tutorial',
    u'Auckland Bioengineering Institute', 'ABIBook', 'One line description of project.',
    'Miscellaneous'),
 ]
