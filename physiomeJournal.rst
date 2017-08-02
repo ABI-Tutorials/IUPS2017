@@ -17,7 +17,9 @@ The second way Figshare is used is as the submission portal for authors to submi
 *Physiome* articles
 -------------------
 
-Articles published in *Physiome* consist of two items, both available via the Figshare platform.
+Articles published in *Physiome* consist of two items, both available via the Figshare platform. The first is a PDF document describing the model, modelling assumptions, limitations, provenance, etc. The second is a `COMBINE archive <http://co.mbine.org/documents/archive>`_ file which contains all the model and simulation files required to produce the model predictions provided in the PDF, as well as those linked back to the primary paper.
+
+The COMBINE archive has its own DOI provided by the Figshare platform and should be downloaded for use in desktop tools as the starting point for reusing an existing model that is relevant to your work. If the model requires the use of a tool or application which does not support COMBINE archives natively, the archive can by extracted using standard ZIP tools, which are natively supported on most operating systems.
 
 *Physiome* management board
 ---------------------------
